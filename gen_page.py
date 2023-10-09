@@ -3,7 +3,7 @@
 """
 import os
 
-PAGE_FILENAME = "test.html"
+PAGE_FILENAME = "index.html"
 TOP_DIR       = "Programs"
 
 BEGIN = """<!DOCTYPE html>
