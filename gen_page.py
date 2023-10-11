@@ -15,17 +15,18 @@ BEGIN = """<!DOCTYPE html>
     <body>
         <header>
             <div style="text-align:center;">
-                <h1>The Megaw Theatre List of Programs (1974-1986)</h1>
+                <h1>Programs of The Original Megaw Theatre (1974-1987)</h1>
             </div>
         </header>
         <p>
          This page contains a partial collection of the original programs created to support The Megaw Theatre
-         shows.  The Megaw theatre was a 99 seat equity weaver theatre that was open from 1974 to 1987
+         shows.  The Megaw Theatre was a 99 seat equity weaver theatre that was open from 1974 to 1987
          and located in Northridge, CA.  After the Megaw closed it's doors in California the founders 
-         (Sydney May Morrison and Elaine EE Moe) reinvented the theatre as <a href="https://megawtheatreinc.com/">The Megaw Theatre and Acting Studio, Inc.</a> relocating to
+         (Sydney May Morrison and Elaine EE Moe) reinvented the theatre as 
+         <a href="https://megawtheatreinc.com/">The Megaw Theatre and Acting Studio, Inc.</a> - relocating to
          Scottsdale, AZ. For the unfamilliar, a theatre that has only 99 seats can be exempt from paying
-         union actors. Thus the Megaw theatre was an all volunteer effort but still had professionals
-         performing (without pay) in the productions. This page is a temporary location for the partial
+         union actors. Thus The Megaw Theatre was an all volunteer effort of professionals
+         performing (without pay) in the productions. This page is a temporary location of a partial
          collection of programs.  The programs where graciously supplied by JoAnn Iaccino (formally JoAnna
          Mashall). JoAnn designed the original Megaw logo and many of the programs. The programs where
          scanned and placed on this web page by Leonard (Lenny) Reder.  Lenny spent a couple years at
@@ -36,7 +37,7 @@ BEGIN = """<!DOCTYPE html>
          of THE LITTLE FOXES. This was almost 50 years ago.  It is my hope to grow
          this web page with production photographs and other information into a 50th.
          anniversary Megaw Theatre legacy page. The goal of the page is to preserve the
-         memory for the many people that worked at Megaw Theatre.<br><br>
+         memory for the many people that worked at The Megaw Theatre.<br><br>
 
          Finally I would be remiss if I did not mension two people I personnally and foundly
          remember who have passed away and are no longer with us - Sydney Morrison and Dave Lukas.
@@ -48,15 +49,14 @@ BEGIN = """<!DOCTYPE html>
          life long memories of Dave and myself in 1976 working almost daily hammering out set
          after set at that little theatre in Northridge. For the uninitiated you will notice
          these two individuals names along with Elaine (EE) Moe in every single program listed.
-         EE was that other Megaw Theatre founder that was the ultimate expert on everything
-         theatrical and is still actively teaching acting. With certainty everyone
-         misses Syd and Dave who knew and worked with them at Megaw.<br><br>
+         EE is the ultimate expert on everything theatrical and is still actively teaching acting.
+         Everyone misses Syd and Dave who knew and worked with them at Megaw.<br><br>
          
          Leonard J. Reder<br>
          Email: <a href = "mailto: reder@ieee.org">reder@ieee.org</a><br>
          Last Updated: $DATE$<br>
          </p>
-        <h2>Programs (in Alphabetic order not chronological):</h2>
+        <h2>Programs (in alphabetic order not chronological):</h2>
         <ol>
 """
 END = """
