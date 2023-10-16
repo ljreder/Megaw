@@ -33,8 +33,8 @@ BEGIN = """<!DOCTYPE html>
          Megaw as a young man assisting with and learning all about technical theatre (e.g. set construction,
          stage lighting, etc.).<br><br>
 
-         Megaw Theatre opened it's doors on September 27, 1974 with the production
-         of THE LITTLE FOXES. This was almost 50 years ago.  It is my hope to grow
+         Megaw Theatre opened it's doors in April of 1974 with the production
+         of "Little Mary Sunshine". This was almost 50 years ago.  It is my hope to grow
          this web page with production photographs and other information into a 50th.
          anniversary Megaw Theatre legacy page. The goal of the page is to preserve the
          memory for the many people that worked at The Megaw Theatre.<br><br>
