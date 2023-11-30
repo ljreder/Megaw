@@ -78,6 +78,13 @@
 7. Animal Tales (Children's Musical L. A. Premiere)
 8. You're A Good Man Charlie
 
+## 1982 Special Production Series (MEGAW in residence at the Prescott Center For The Performing Arts: Summer 82)
+
+1. The Rainmaker
+2. Romantic Comedy - Missing
+3. The Corn Is Green
+4. Company
+
 ## 1982-1983
 
 1. The Rainmaker
@@ -102,3 +109,9 @@
     * Dandelion (a musical)
 
 ## 1985, 1986, and 1987 no programs
+
+To Feed Their Hopes
+
+STEPPING FORWARD (Musical??)
+
+Company
