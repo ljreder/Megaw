@@ -76,7 +76,7 @@
 5. Mayr M. (L. A. Premiere)
 6. Romantic Comedy (L. A. Premiere)
 7. Animal Tales (Children's Musical L. A. Premiere)
-8. You're A Good Man Charlie
+8. You're A Good Man Charlie Brown
 
 ## 1982 Special Production Series (MEGAW in residence at the Prescott Center For The Performing Arts: Summer 82)
 
@@ -88,12 +88,12 @@
 ## 1982-1983
 
 1. The Rainmaker
-2. The School For Scandal - Missing
+2. The School For Scandal
 3. Goodbye, My Fancy - Missing
 4. Hedda Gabler - Missing
 5. The Summer Festival of Musical Theatre:
     * The Boys From Syracuse - Missing
-    * Ernest  - Missing (A World Premiere Musical)
+    * Ernest (A World Premiere Musical)
     * Dandelion  - Missing (West Coast Premiere for Children)
 
 ## 1983-1984 - All programs missing
@@ -108,10 +108,14 @@
     * Animal Tales
     * Dandelion (a musical)
 
-## 1985, 1986, and 1987 no programs
+## 1985 - All programs missing
 
-To Feed Their Hopes
+## 1986 - Missing programs
 
-STEPPING FORWARD (Musical??)
+To Feed Their Hopes: An American Cantana (Quaigh Theater in New York City)
 
-Company
+STEPPING FORWARD (Mayfair Theatre in Santa Monica, renamed version of To Feed Their Hopes)
+
+## 1987 - All programs missing
+
+
