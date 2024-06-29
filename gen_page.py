@@ -3,6 +3,7 @@
 """
 import os
 import datetime
+import glob
 
 PAGE_FILENAME = "index.html"
 TOP_DIR       = "Programs"
@@ -11,6 +12,16 @@ BEGIN = """<!DOCTYPE html>
 <html>
     <head>
         <title>Megaw</title>
+        <style>
+            .missing_program {
+                color: red;    
+            }
+            .background_image {
+                background-image:url("MegawStainedGlass.jpg");
+                background-color:transparent;
+                background-size: contain;
+            }
+        </style>
     </head>
     <body>
         <header>
@@ -57,10 +68,13 @@ BEGIN = """<!DOCTYPE html>
          Last Updated: $DATE$<br>
          </p>
         <h2>Programs (in alphabetic order not chronological):</h2>
+        <h3 style=color:red>RED titles are missing programs<h3>
+        <div>
         <ol>
 """
 END = """
         </ol>
+        <div>
     </body>
 </html>
 """
@@ -123,7 +137,13 @@ def main():
         for d in dir_name_list:
             filename = file_list[i]
             title    = " ".join(filename.split("_"))
-            rec = "            <a href=\"Programs" + os.sep + d + os.sep + filename + ".pdf\">" + title + "</a><br>\n"
+            p =  "Programs" + os.sep + d + os.sep + filename + ".pdf"
+            program_present = os.path.exists(p)
+            if program_present:
+                rec = "            <a href=\"Programs" + os.sep + d + os.sep + filename + ".pdf\">" + title + "</a><br>\n"
+            else:
+                rec = "            <div class=missing_program>" + title + "</div>\n"
+
             f.write("            <li>\n")
             f.write(rec)
             f.write("            </li>\n")
