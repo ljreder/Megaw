@@ -48,17 +48,15 @@ BEGIN = """<!DOCTYPE html>
          in Northridge, California from 1974 to 1987.
          After The MEGAW closed its doors in
          California, the founders (Sydney May
-         Morrison and Elaine EE Moe) reinvented the
+         Morrison and Elaine EE Moe) rededicated the
          theatre as <a href="https://megawtheatreinc.com/">The Megaw Theatre and Acting Studio, Inc.</a> 
-         - relocating to Scottsdale, AZ. For
-         the unfamilliar, a theatre that has only 99
-         seats can be exempt from paying union actors.
-         Thus The Megaw Theatre was an all
-         volunteer effort of professionals performing
-         (without pay) in the productions. This page is
-         a temporary location for the collection.  
+         - relocating to Arizona. The Megaw Theatre fell under the
+         AEA (Actors Equity Association) category which allowed a pay
+         waiver for actors to perform in theatres under 99 seats. It
+         was an all volunteer effort of outstanding creative professionals.
+         This page is a temporary location for the collection.  
          Initially a set of programs was graciously supplied by
-         JoAnn Iaccino (aka JoAnna Mashall). JoAnn 
+         JoAnn Iaccino (aka JoAnna Marshall). JoAnn 
          designed the original Megaw logo and many
          of the programs. Since the initial generation
          of this collection, various people have
@@ -72,18 +70,21 @@ BEGIN = """<!DOCTYPE html>
          about technical theatre (e.g. set
          construction, stage lighting, etc.).<br><br>
 
-         The Megaw Theatre opened its doors in April
+         <i><b>The Megaw Theatre opened its doors in April
          of 1974 with the production of "Little Mary
-         Sunshine". That was 50 years ago!  It is the
+         Sunshine".</i></b> The Megaw Theatre property was redesigned as 
+         a performance space from June, 1973 to April, 1974.
+         That was 50 years ago!  It is the
          hope to grow this collection of programs and
          add production photographs, reviews, stories,
          etc. into a new 50th. anniversary
          MEGAW Theatre legacy page (aka The 
          MEGAW 50 Archive). The goal of the page is
          to preserve the memory for the many people
-         that worked at The Megaw Theatre.<br><br>
+         that worked at The Megaw Theatre.
+         <br><br>
 
-         Finally, I would be remiss if I did not mension
+         Finally, I would be remiss if I did not mention
          two people I personally and fondly
          remember who are no longer with us - Sydney May Morrison
          and Dave Lukas. Sydney May Morrison (Syd)
@@ -95,17 +96,12 @@ BEGIN = """<!DOCTYPE html>
          of a couple years of learning.  Syd was my
          advocate at the Megaw and taught me about
          hard work.  Dave Lukas, an extraordinary
-         theatrical set designer and scenic carpentar,
+         theatrical set designer and scenic carpenter,
          would be my first true mentor. I have life
          long memories of Dave and myself in 1976
          working almost daily hammering out set
          after set at that little theatre in Northridge.
-         For the uninitiated, you will notice these two
-         individuals names, along with Elaine (EE)
-         Moe, in every single program listed. EE is the
-         ultimate expert on everything theatrical and
-         is still actively teaching acting. Everyone who
-         knew and worked with Syd and Dave at The Megaw
+         Everyone who knew and worked with Syd and Dave at The Megaw
          misses them very much.<br><br>
          
          Leonard J. Reder<br>
