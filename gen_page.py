@@ -84,7 +84,7 @@ BEGIN = """<!DOCTYPE html>
          that worked at The Megaw Theatre.
          <br><br>
 
-         Finally, I would be remiss if I did not mention
+         <i>Note from Lenny:</i> Finally, I would be remiss if I did not mention
          two people I personally and fondly
          remember who are no longer with us - Sydney May Morrison
          and Dave Lukas. Sydney May Morrison (Syd)
