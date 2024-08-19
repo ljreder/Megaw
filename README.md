@@ -107,8 +107,12 @@
 7. Children's Theatre Wind Productions:
     * Animal Tales
     * Dandelion (a musical)
+8. Hedda Gabler
 
-## 1985 - All programs missing
+## 1985 - 1986
+
+The Investigation
+Becket
 
 ## 1986 - Missing programs
 
